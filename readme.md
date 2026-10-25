@@ -43,3 +43,7 @@ Les exemples contiennent des valeurs fictives à remplacer. Ils ne sont pas appl
 - Les configurations concernent le client OpenSSH. Elles ne changent pas la politique des serveurs.
 
 Ce dépôt contient uniquement de la documentation et des exemples : aucune clé réelle, aucune adresse réelle, aucun déploiement.
+
+## Licence
+
+Ce projet est distribué sous [licence MIT](LICENSE).
