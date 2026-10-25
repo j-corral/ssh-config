@@ -1,0 +1,10 @@
+# Fichiers locaux et secrets éventuels
+.DS_Store
+*.pem
+*.key
+*.pub
+id_*
+cle_*
+.env
+.env.*
+*.local.conf
